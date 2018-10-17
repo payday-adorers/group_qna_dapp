@@ -1,1 +1,12 @@
+# 인텔리제이 .idea 무시
+.idea
 .idea/workspace.xml
+
+# Nmp install 디렉토리 무시
+node_modules
+
+# npm debug log 무시
+npm-debug.log
+
+# truffle build 디렉토리 무시
+build/

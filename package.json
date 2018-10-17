@@ -1,0 +1,30 @@
+{
+  "name": "group_qna_dapp",
+  "version": "1.0.0",
+  "description": "group qna community dapp",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "scripts/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payday-adorers/group_qna_dapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/payday-adorers/group_qna_dapp/issues"
+  },
+  "homepage": "https://github.com/payday-adorers/group_qna_dapp#readme",
+  "dependencies": {
+    "truffle": "^4.1.14",
+    "truffle-hdwallet-provider": "0.0.6"
+  },
+  "devDependencies": {
+    "eth-gas-reporter": "^0.1.12",
+    "ethjs-abi": "^0.2.1"
+  }
+}
