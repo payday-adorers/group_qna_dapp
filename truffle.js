@@ -1,5 +1,4 @@
 var HDWalletProvider = require("truffle-hdwallet-provider");
-// npm install truffle-hdwallet-provider
 var mnemonic = "canal near escape honey hover night oil wealth slam mad clean hurdle"; // 12 word mnemonic
 
 module.exports = {
